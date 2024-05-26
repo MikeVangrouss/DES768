@@ -1,5 +1,5 @@
 # DES 768 bits Encryption Cipher
-Data Encryption Standard Encryption Cipher 768 bits
+Data Encryption Standard Block Cipher Encryption with 768-bit keys.
 
 DES uses 56-bit keys. However, the internal keys are much larger. 
 
